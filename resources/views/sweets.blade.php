@@ -6,30 +6,22 @@
 <div class="row">
 <div class="col col-12 col-sm-12 col-md-6 col-lg-3 col-xl-3 col-xxl-3">
 <div class="card" style="width: 18rem;">
-  <img src="https://lh3.googleusercontent.com/fFT67azZaQ44T2SqF_63cq3O6Rwvga227bfbnXUNg1niLp4ZFKBgXdH8q-luvoWbddJKkAtxke8BPDjY8HpkWg=s640-c-rw-v1-e365" class="card-img-top" alt="...">
+  <img src="https://cdn.igp.com/f_auto,q_auto,t_prodm/products/p-elegant-rose-bouquet-139330-m.jpg" class="card-img-top" alt="...">
   <div class="card-body">
     <p class="card-text">
-    <h5>Almond Dessert</h5>Separate the egg yolks from the whites.
-Beat the egg yolks and mix together with the "dulce de leche" until smooth.
-In a separate bowl, beat the egg whites to stiff peaks and gently fold into cream mixture.
-In a skillet, toast the almonds until golden brown.
-Place almonds in the bottom of serving cups or bowls. Set aside some of the almonds to top the desserts.
-Spoon cream mixture over the almonds and chill until ready to serve. Garnish with reserved almonds.</p>
+    <h5>Fresh Rose Bouquet</h5>Separate the egg yolks from the whites.
+The Soulfulness of Nur Jahan Arrangement- A regal symbol of grace and dignity, this flower arrangement is an ode to the inspiring beauty of Nur Jahan, a significant empress of the Mughal Dynasty. The best token of admiration and appreciation to the beautiful and royal women like her, this royal arrangement of pink roses along with the beautiful white fillers is sure to create a bright spot in your special one’s day..</p>
   </div>
 </div>
 </div>
 <br>
 <div class="col col-12 col-sm-12 col-md-6 col-lg-3 col-xl-3 col-xxl-3">
 <div class="card" style="width: 18rem;">
-  <img src="https://lh4.ggpht.com/663zCpiqw8VfS5vAmmSmbEydZYpA9uUdXfcHU-FPHIbl4kOPj0ullkJtxJ5irLts_-MbuGGFPcmSo8DRyQVwdY4=s640-c-rw-v1-e365" class="card-img-top" alt="...">
+  <img src="https://cdn.igp.com/f_auto,q_auto,t_prodm/products/p-bouquet-of-rose-and-carnations-112367-m.jpg" class="card-img-top" alt="...">
   <div class="card-body">
     
-    <p class="card-text"><h5>Mamey Dessert</h5>
-    Using a spoon, remove the pulp from the skin.
-In a blender, add the mamey and condensed milk. Puree until smooth.
-Add milk if too thick.
-Pour into dessert cups and garnish to taste.
-Serve cold.
+    <p class="card-text"><h5> Bouquet of Rose and Carnations</h5>
+The Soulfulness of Nur Jahan Arrangement- A regal symbol of grace and dignity, this flower arrangement is an ode to the inspiring beauty of Nur Jahan, a significant empress of the Mughal Dynasty. The best token of admiration and appreciation to the beautiful and royal women like her, this royal arrangement of pink roses along with the beautiful white fillers is sure to create a bright spot in your special one’s day.
     </p>
   </div>
 </div>
@@ -37,17 +29,11 @@ Serve cold.
 <br>
 <div class="col col-12 col-sm-12 col-md-6 col-lg-3 col-xl-3 col-xxl-3">
 <div class="card" style="width: 18rem;">
-  <img src="https://lh3.googleusercontent.com/R_wX66nbTmRNsxcefSRqvLJEXHUzgoVwlgiqtP4byyhtz-qCRpRx92psFykl8Jwi45poRzXgYBpQSGB7sCjRXg=s640-c-rw-v1-e365" class="card-img-top" alt="...">
+  <img src="https://www.rosesonly.com.au/Skin/RosesOnly/Images/Products/350,350/stylishlowvasearrangement.jpg" class="card-img-top" alt="...">
   <div class="card-body">
     
-    <p class="card-text"><h5>Coffee Dessert</h5>
-    Grind the ladyfingers and almonds for a few seconds at speed 7/8/9.
-Set aside in a bowl.
-In the Thermomix cup add the milks, egg yolks, cornstarch and coffee. Set to 8 minutes/194°F/speed 3.
-Place in a bowl to cool, stirring occasionally.
-Wash and thoroughly dry the Thermomix cup and fit with the butterfly. Add the egg whites and sugar. Remove the cup lid and set for 5 minutes/speed 3 1/ 2.
-Add to the milk mixture and fold gently with a spoon, stirring from bottom to top.
-Place in small bowls or in a large bowl, alternating layers of cream and crushed ladyfingers, ending with a layer of crushed ladyfingers and almonds.
+    <p class="card-text"><h5>Big Roses with white flowers</h5>
+    The Soulfulness of Nur Jahan Arrangement- A regal symbol of grace and dignity, this flower arrangement is an ode to the inspiring beauty of Nur Jahan, a significant empress of the Mughal Dynasty. The best token of admiration and appreciation to the beautiful and royal women like her, this royal arrangement of pink roses along with the beautiful white fillers is sure to create a bright spot in your special one’s day.
     </p>
   </div>
 </div>
